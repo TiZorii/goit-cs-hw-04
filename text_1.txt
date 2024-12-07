@@ -1,0 +1,1 @@
+This is a sample text file. It contains some keywords like error and test. The goal is to find these keywords efficiently. Testing is crucial for error handling.
